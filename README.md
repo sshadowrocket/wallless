@@ -28,7 +28,7 @@ WallLess，原无界VPN（与轮子撞车而改名），又称WallLess加速器�
 
 ## Wallless 套餐介绍
 
-![Wallless 套餐介绍](https://github.com/abcttxyz/wallless/blob/main/wallless_uxtt_20230809_113035.png)
+![Wallless 套餐介绍](https://github.com/sshadowrocket/wallless/blob/main/wallless_uxtt_20230809_113035.png)
 
 Wallless机场最新地址：[portal.wl-site5.com](https://portal.wl-site5.com/#/register?code=7zUaJiX8)
 
